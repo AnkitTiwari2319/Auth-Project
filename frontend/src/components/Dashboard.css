@@ -1,0 +1,68 @@
+.user-table {
+    width: 100%;
+    background-color: #fff;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    border-collapse: collapse;
+}
+
+.user-dashboard{
+    color: rgba(84, 84, 82, 0.762);
+    text-align: center;
+}
+
+.user-table th, .user-table td {
+    padding: 14px 20px;
+    text-align: left;
+    border-bottom: 1px solid #eaeaea;
+}
+
+.user-table th {
+    background-color: #f8f8f8;
+}
+
+.user-name {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}
+
+.avatar {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.status-dot {
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    display: inline-block;
+    margin-right: 8px;
+}
+
+.status-dot.active {
+    background-color: green;
+}
+  
+.status-dot.suspended {
+    background-color: red;
+}
+
+.status-dot.inactive {
+    background-color: orange;
+}
+
+.action-icon {
+    font-size: 16px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+  
+.action-icon.edit {
+    color: #3498db;
+}
+  
+.action-icon.delete {
+    color: #e74c3c;
+}
