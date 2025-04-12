@@ -21,14 +21,15 @@ This is a full-stack authentication system built using **React.js**, **Node.js**
 - ✅ Protected Dashboard Route with Static Table
 
 ---
+
 ## 📸 Screenshots
 
+### 📝 Register Page
+![Register Page](https://github.com/AnkitTiwari2319/Auth-Project/blob/master/Register.png?raw=true)
 
-### 🔐 Register Page
-![Register Page](https://github.com/AnkitTiwari2319/Auth-Project/blob/master/register.png?raw=true)
+### 🔐 Login Page
+![Login Page](https://github.com/AnkitTiwari2319/Auth-Project/blob/master/Login.png?raw=true)
 
-### 🔑 Login Page
-![Login Page](https://github.com/AnkitTiwari2319/Auth-Project/blob/master/login.png?raw=true)
+### 📊 Dashboard Page
+![Dashboard Page](https://github.com/AnkitTiwari2319/Auth-Project/blob/master/Dashboard.png?raw=true)
 
-### 🧾 Dashboard Page
-![Dashboard Page](https://github.com/AnkitTiwari2319/Auth-Project/blob/master/dashboard.png?raw=true)
